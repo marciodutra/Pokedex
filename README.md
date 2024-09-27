@@ -19,8 +19,7 @@ Projeto de uma Pokedex, utilizando de recursos da API [`pokeapi.co`](https://pok
 https://github.com/Brenda-A-S/Pokedex-HTML-CSS-JS/assets/69852246/b856f29a-4f6f-4f09-9226-f25684599781
  
  # :link: Links úteis
-* Comece o curso Formação JavaScript Developer com [DIO Pro](https://dio.me/curso-javascript/AFXQ1Y3OR88A)
-* Me siga no [Instagram](https://www.instagram.com/brenda_a_s_dev/)
-* Se conecte comigo no [LinkedIn](https://www.linkedin.com/in/brenda-antunes-silva/)
-* Veja meu [Portfólio](https://portfolio-brenda-a-s.web.app/)
-* Meu [LinkTree](https://linktr.ee/brenda_a_s_dev)
+* Me siga no [Instagram](https://www.instagram.com/professormarciodutra/)
+* Se conecte comigo no [LinkedIn](https://www.linkedin.com/in/m%C3%A1rcio-dutra-10362222/)
+* Veja meu [Portfólio](https://meuportifolioangular.netlify.app//)
+
