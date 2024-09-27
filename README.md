@@ -16,7 +16,6 @@ Projeto de uma Pokedex, utilizando de recursos da API [`pokeapi.co`](https://pok
 
 ![Imagem do WhatsApp de 2023-08-24 à(s) 19 14 50](https://github.com/marciodutra/Pokedex/blob/main/assets/imgs/2.jpg)
 
-https://github.com/Brenda-A-S/Pokedex-HTML-CSS-JS/assets/69852246/b856f29a-4f6f-4f09-9226-f25684599781
  
  # :link: Links úteis
 * Me siga no [Instagram](https://www.instagram.com/professormarciodutra/)
